@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<bookstore>
+    <book>
+		<title lang="eng">Learn Python</title>
+		<price>100</price>
+	</book>
+	<book>
+		<title lang="chn">Learn Python 2</title>
+		<price>101</price>
+	</book>
+</bookstore>
